@@ -20,4 +20,16 @@ public class Ujsag implements Kolcsonozheto{
     public int meddigKolcsonozheto() {
         return 0;
     }
+
+    public String getCim() {
+        return cim;
+    }
+
+    public int getKiadasEv() {
+        return kiadasEv;
+    }
+
+    public int getKiadasHet() {
+        return kiadasHet;
+    }
 }

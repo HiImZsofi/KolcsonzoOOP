@@ -20,4 +20,16 @@ public class Konyv implements Kolcsonozheto {
     public int meddigKolcsonozheto() {
         return 14;
     }
+
+    public String getCim() {
+        return cim;
+    }
+
+    public String getSzerzo() {
+        return szerzo;
+    }
+
+    public String getIsbn() {
+        return isbn;
+    }
 }
